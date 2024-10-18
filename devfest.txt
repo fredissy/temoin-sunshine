@@ -1,2 +1,3 @@
 nouveau fichier devfest.txt sur la branche_c
 ligne 2 devfest
+ligne 3 encore
