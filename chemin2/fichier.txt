@@ -1,2 +1,3 @@
 fichier dans le second chemin
 Hello
+du sparse checkout
