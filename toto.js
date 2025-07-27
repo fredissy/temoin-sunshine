@@ -1,3 +1,3 @@
 function name(params) {
-    console.info(params)
+    console.info(params);
 }
